@@ -1,9 +1,9 @@
 # PrusaSlicer-AppImage 🐧
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/sarrchri/PrusaSlicer.AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/sarrchri/PrusaSlicer.AppImage/releases/latest)
-[![CI Build Status](https://github.com/sarrchri/PrusaSlicer.AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/sarrchri/PrusaSlicer.AppImage/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/pkgforge-dev/PrusaSlicer.AppImage/total?logo=github&label=GitHub%20Downloads)](https://github.com/pkgforge-dev/PrusaSlicer.AppImage/releases/latest)
+[![CI Build Status](https://github.com/pkgforge-dev/PrusaSlicer.AppImage/actions/workflows/appimage.yml/badge.svg)](https://github.com/pkgforge-dev/PrusaSlicer.AppImage/releases/latest)
 
-* [Latest Release](https://github.com/sarrchri/PrusaSlicer.AppImage/releases/latest)
+* [Latest Release](https://github.com/pkgforge-dev/PrusaSlicer.AppImage/releases/latest)
 
 ---
 
